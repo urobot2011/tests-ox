@@ -1,7 +1,5 @@
 # 천재라면
 체스닷컴에서 천재클럽을 위한 문제
 
-1~5문제는 OX문제입니다.
-1. x^n + y^n = z^n (n>2) 를 만족하는 수 x,y,z가 존재한다.
-2. 리만 제타 함수의 자명하지 않은 해는 임계선 안에 무한히 존재한다.
-3. 
+<p><a href="https://www.chess.com/play/tournament/3833083?action=joinTournament" title="시작" target="_blank" style="background: #ffffff; color: #000000; border: 15px solid #ffffff;" class="ui_v5-button-component ui_v5-button-small ui_v5-button-primary" rel="noreferrer noopener"> 시작하기! </a></p>
+
